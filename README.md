@@ -12,7 +12,9 @@ npm run dev
 ```
 
 ✅ Success:
+
 ![](./src/assets/Terminal.png)
+
 Go to: [http://localhost:5173/](http://localhost:5173/)
 
 ## Notes

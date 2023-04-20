@@ -2,17 +2,18 @@
 
 ![](./src/assets/Screenshot.png)
 
-## Project Setup
+## Getting Started
 
 ```sh
+git clone git@github.com:RyanHavoc/the-tv-series-database.git
+cd the-tv-series-database
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
 ```
+
+✅ Success:
+![](./src/assets/Terminal.png)
+Go to: [http://localhost:5173/](http://localhost:5173/)
 
 ## Notes
 
